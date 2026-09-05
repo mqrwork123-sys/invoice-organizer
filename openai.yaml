@@ -1,0 +1,4 @@
+interface:
+  display_name: "整理发票"
+  short_description: "批量核对月度流水与发票、规范改名并输出缺票结果"
+  default_prompt: "使用 $invoice-organizer 整理我指定文件夹中的月度发票和银行明细，完成改名并生成发票匹配核对结果。"
